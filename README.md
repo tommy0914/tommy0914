@@ -75,15 +75,15 @@ Core Features
 ## GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=youngemeritus&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tommy0914&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youngemeritus&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tommy0914&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngemeritus&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommy0914&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -91,7 +91,7 @@ Core Features
 ## Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=youngemeritus&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tommy0914&theme=tokyo-night"/>
 </p>
 
 ---
